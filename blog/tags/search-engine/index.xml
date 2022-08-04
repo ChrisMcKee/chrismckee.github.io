@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>search engine on Chris McKee</title>
-    <link>https://chrismckee.com/blog/tags/search-engine/</link>
+    <link>https://chrismckee.co.uk/blog/tags/search-engine/</link>
     <description>Recent content in search engine on Chris McKee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="https://chrismckee.com/blog/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="https://chrismckee.co.uk/blog/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duckduckgo.com</title>
-      <link>https://chrismckee.com/blog/link/duckduckgo/</link>
+      <link>https://chrismckee.co.uk/blog/link/duckduckgo/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>https://chrismckee.com/blog/link/duckduckgo/</guid>
+      <guid>https://chrismckee.co.uk/blog/link/duckduckgo/</guid>
       <description>A search engine that respects your privacy.</description>
     </item>
     
