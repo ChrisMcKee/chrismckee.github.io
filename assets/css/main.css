@@ -1268,7 +1268,7 @@ input, select, textarea {
 			margin-top: 3.5rem;
 		}
 
-			#header > nav:before {
+			#header > *:before {
 				content: '';
 				display: block;
 				position: absolute;
@@ -1296,7 +1296,6 @@ input, select, textarea {
 		#header .logo img {
 			filter: invert(50);
 		}
-
 
 			#header .logo .icon:before {
 				font-size: 2rem;
@@ -1664,4 +1663,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-    
